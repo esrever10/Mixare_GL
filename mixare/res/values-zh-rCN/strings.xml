@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR导航者</string>
+    <string name="search_hint">搜索位置</string>
+    
+    <string name="N">N</string>
+    <string name="NE">NE</string>
+    <string name="E">E</string>
+    <string name="SE">SE</string>
+    <string name="S">S</string>
+    <string name="SW">SW</string>
+    <string name="W">W</string>
+    <string name="NW">NW</string>
+    
+    <string name="CIRCLE_MARKER">Circles</string>
+    <string name="NAVIGATION_MARKER">Arrows</string>
+    
+    <string name="empty_list">对不起，在此范围内，\n没有可用的位置信息。\n请尝试在更大的范围内搜索。</string>
+	<string name="option_not_available">对不起， 我们正在努力工作... \n信息很快就会出现！</string>
+
+	<string name="license">Copyright (C) 2010- Peer internet solutions 
+		\n\nThis program is free software: 	you can redistribute it and/or modify it under the terms of the 
+		GNU General Public License as published by the Free Software Foundation, either version 3 of the License, 
+		or at your option) any later version. 
+		\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even 
+		the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
+		License for more details. 
+		\n\n You should have received a copy of the GNU General Public License along with this program. 
+		If not, see &lt;http://www.gnu.org/licenses/&gt;
+	</string>
+	
+	<string name="launch_plugins">启动插件?</string>
+	<string name="plugin_message">找到了一些插件，打算使用它们吗?</string>
+	<string name="remember_this_decision">记住这个决定？</string>
+	<string name="yes">是</string>
+	<string name="no">否</string>
+		
+	<string name="menu_item_1">数据源</string>
+	<string name="menu_item_2">列表显示</string>
+	<string name="menu_item_3">地图显示</string>
+	<string name="menu_item_4">缩放</string>
+	<string name="menu_item_5">搜索</string>
+	<string name="menu_item_6">GPS信息</string>
+	<string name="menu_item_7">许可证</string>
+
+	<string name="cancel">取消</string>
+
+	<string name="data_source_edit_err">该数据源无法编辑。</string>
+	<string name="data_source_delete_err">该数据源无法删除。</string>
+
+	<string name="connection_error_dialog">对不起，链接错误！\n请检查网络链接是否正常。</string>
+	<string name="connection_error_dialog_button1">重试</string>
+	<string name="connection_error_dialog_button2">设置</string>
+	<string name="connection_error_dialog_button3">关闭</string>
+
+	<string name="connection_GPS_dialog_text">无法更新GPS位置信息... \n如果继续，\n信息可能无法 显示在正确的位置上。</string>
+	<string name="connection_GPS_dialog_button1">继续</string>
+	<string name="connection_GPS_dialog_button2">结束</string>
+
+	<string name="no_website_available">对不起, 没有更多的可用信息了。</string>
+
+	<string name="license_title">许可证</string>
+	<string name="close_button">关闭</string>
+	<string name="general_info_title">通用信息</string>
+
+	<string name="general_info_text">GPS信息: </string>
+	<string name="longitude">经度：</string>
+	<string name="latitude">纬度：</string>
+	<string name="altitude">高度：</string>
+	<string name="speed">速度：</string>
+	<string name="accuracy">精度：</string>
+	<string name="gps_last_fix">最后的GPS修正：</string>
+
+	<string name="map_menu_normal_mode">地图</string>
+	<string name="map_menu_satellite_mode">卫星</string>
+	<string name="map_menu_cam_mode">实景</string>
+	<string name="map_my_location">我的位置</string>
+	<string name="map_toggle_path_on">显示路径</string>
+	<string name="map_toggle_path_off">隐藏路径</string>
+	<string name="map_current_location_click">你当前的位置</string>
+
+	<string name="data_source_add">新增数据源</string>
+	<string name="data_source_edit">编辑数据源</string>
+	<string name="data_source_delete">删除数据源</string>
+
+	<string name="search_failed_notification">没有搜索结果</string>
+	<string name="search_active_1">搜索数据源</string>
+	<string name="search_active_2">. 按下结束搜索</string>
+	<string name="download_error">下载失败</string>
+	<string name="download_received">数据已接收：来自</string>
+
+	<string name="location_not_found">位置信息没有找到，\n请确认是否在设置中打来了Wifi或者GPS。</string>
+	<string name="refreshing">正在刷新</string>
+	<string name="radius">搜索半径：</string>
+
+	<string name="compass_data_error">罗盘数据不可靠。请重新校准罗盘。</string>
+</resources>

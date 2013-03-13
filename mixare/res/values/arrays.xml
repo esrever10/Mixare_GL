@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="datasourcetypelist">
+	</string-array>
+	<string-array name="displaytypelist">
+		<item>@string/CIRCLE_MARKER</item>
+		<item>@string/NAVIGATION_MARKER</item>
+	</string-array>
+	<string-array name="defaultdatasources">
+	    <item>Baidu|http://api.map.baidu.com/place/search?|1|1|true</item>
+	    <!--<item>Wikipedia|http://ws.geonames.org/findNearbyWikipediaJSON|0|0|true</item>-->
+	</string-array>
+</resources>
